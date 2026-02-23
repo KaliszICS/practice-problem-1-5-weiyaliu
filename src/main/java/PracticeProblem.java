@@ -1,6 +1,6 @@
 /**
 	* File: Lesson 1.5: Characters
-	* Author: Mr. Kalisz
+	* Author: Weiya liu
 	* Date Created: February 22, 2026
 	* Date Last Modified: February 22, 2026
 	*/
